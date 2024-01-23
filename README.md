@@ -5,7 +5,7 @@
 
 <img width="400" alt="ChangeSentenceToMieum_window" src="https://github.com/sindpfla98/ChangeSentenceToMieum/assets/43367995/6cdd4b70-c3ed-4cca-b19d-605e6dbaaed9">
 
-Minimum Glyphs version: build `3234`.
+Minimum Glyphs version: build `3161`.
 
 Python version: `3.11.6`.
 
