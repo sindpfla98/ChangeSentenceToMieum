@@ -10,14 +10,8 @@ Minimum Glyphs version: build `3234`.
 Python version: `3.11.6`.
 
 ## Installation
-
 1. Open *Window > Plugin Manager*
 2. Click the `Install` button next to ’Change Sentence To Mieum’
-3. Restart Glyphs3.app
-
-## for Intel Installation
-1. Download file: [ChangeSentenceToMieum.glyphsPlugin.zip](https://github.com/sindpfla98/ChangeSentenceToMieum/files/14018694/ChangeSentenceToMieum.glyphsPlugin.zip)
-2. Open in Glyphs3
 3. Restart Glyphs3.app
 
 ## Usage Instructions
