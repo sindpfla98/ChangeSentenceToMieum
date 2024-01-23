@@ -20,9 +20,8 @@ Python version: `3.11.6`.
 2. Open in Glyphs3
 3. Restart Glyphs3.app
 
-https://github.com/sindpfla98/ChangeSentenceToMieum/assets/43367995/416b171f-bf93-458f-af51-e0fe695c5cc9
-
 ## Usage Instructions
+https://github.com/sindpfla98/ChangeSentenceToMieum/assets/43367995/416b171f-bf93-458f-af51-e0fe695c5cc9
 1. Click *Window > 'Change Sentence To Mieum'* to open the window.
 2. Enter the Korean sentence.
 3. Select the initial or final consonant in the sentence that you want to change to ㅁ.
