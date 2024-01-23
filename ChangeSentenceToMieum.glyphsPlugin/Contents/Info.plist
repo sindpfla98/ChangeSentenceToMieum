@@ -17,9 +17,9 @@
 	<key>CFBundleVersion</key>
 	<string>1</string> <!-- 123 -->
 	<key>UpdateFeedURL</key>
-	<string>https://github.com/sindpfla98/</string>
+	<string>https://raw.githubusercontent.com/sindpfla98/ChangeSentenceToMieum/Intel/ChangeSentenceToMieum.glyphsPlugin/Contents/Info.plist</string>
 	<key>productPageURL</key>
-	<string>https://github.com/sindpfla98/</string>
+	<string>https://github.com/sindpfla98/ChangeSentenceToMieum</string>
 	<key>productReleaseNotes</key>
 	<string>Change Sentence To Mieum</string>
 	<key>NSHumanReadableCopyright</key>
