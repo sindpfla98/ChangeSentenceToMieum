@@ -1,5 +1,5 @@
 # ChangeSentenceToMieum
-문장에서 초성, 종성을 ㅁ으로 변환
+창 > '문장 ㅁ꼴로 바꾸기'는 입력된 문장의 초성과 종성을 ㅁ으로 변경합니다.
 
 *Window > 'Change Sentence To Mieum'* changes the initial consonant and final consonant of the entered sentence to ㅁ.
 
