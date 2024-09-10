@@ -7,7 +7,7 @@
 
 Minimum Glyphs version: build `3161`.
 
-Python version: `3.11.6`.
+Python version: `3.11.X`.
 
 ## Installation
 1. Open *Window > Plugin Manager*
